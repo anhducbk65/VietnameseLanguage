@@ -1,0 +1,19 @@
+<Languages><List>
+    <Language Name="Vi">
+        <DisplayName>Tiếng Việt</DisplayName>
+        <Icon>viflag.png</Icon>
+        <!--0:CNMODE 1:ENMODE-->
+        <UIMode>1</UIMode>
+        <Desc>Việt Hóa Amazing Cultivation Simulator</Desc>
+        <!--Word Connect with space-->
+        <SpaceConnect>true</SpaceConnect>
+        <!--FamilyName Postposition-->
+        <FamilyPostposition>false</FamilyPostposition>
+        <Labels>
+            <li Label="[ENHIM]" SecondPersonF="her" SecondPersonM="him" ThirdPersonF="her" ThirdPersonM="him"/>
+            <li Label="[ENHERS]" SecondPersonF="hers" SecondPersonM="his" ThirdPersonF="hers" ThirdPersonM="his"/>
+            <li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
+            <li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
+        </Labels>
+    </Language>
+</List></Languages>
